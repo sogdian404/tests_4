@@ -10,27 +10,23 @@ namespace CI
     {
         public Rectangle(double width, double height)
         {
+            if (height < 0 || width < 0)
+            {
+                throw new ArgumentException("Такой прямоугольник не существует");
+            }
             Width = width;
             Height = height;
         }
 
-        public double Width { get; set; }
-        public double Height { get; set; }
+        private double Width;
+        private double Height;
 
         public override double Area()
         {
-            if (Height < 0 || Width < 0)
-            {
-                throw new Exception("Такой прямоугольник не существует");
-            }
             return Width*Height;
         }
         public override double Perimeter()
         {
-            if (Height < 0 || Width < 0)
-            {
-                throw new Exception("Такой прямоугольник не существует");
-            }
             return 2*(Height+Width);
         }
         public override string ToString()

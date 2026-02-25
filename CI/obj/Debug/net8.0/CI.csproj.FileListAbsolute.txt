@@ -1,0 +1,12 @@
+D:\UCHEBNIE\isomatov_h\testing\prakt4\CI\CI\bin\Debug\net8.0\CI.deps.json
+D:\UCHEBNIE\isomatov_h\testing\prakt4\CI\CI\bin\Debug\net8.0\CI.dll
+D:\UCHEBNIE\isomatov_h\testing\prakt4\CI\CI\bin\Debug\net8.0\CI.pdb
+D:\UCHEBNIE\isomatov_h\testing\prakt4\CI\CI\obj\Debug\net8.0\CI.GeneratedMSBuildEditorConfig.editorconfig
+D:\UCHEBNIE\isomatov_h\testing\prakt4\CI\CI\obj\Debug\net8.0\CI.AssemblyInfoInputs.cache
+D:\UCHEBNIE\isomatov_h\testing\prakt4\CI\CI\obj\Debug\net8.0\CI.AssemblyInfo.cs
+D:\UCHEBNIE\isomatov_h\testing\prakt4\CI\CI\obj\Debug\net8.0\CI.csproj.CoreCompileInputs.cache
+D:\UCHEBNIE\isomatov_h\testing\prakt4\CI\CI\obj\Debug\net8.0\CI.sourcelink.json
+D:\UCHEBNIE\isomatov_h\testing\prakt4\CI\CI\obj\Debug\net8.0\CI.dll
+D:\UCHEBNIE\isomatov_h\testing\prakt4\CI\CI\obj\Debug\net8.0\refint\CI.dll
+D:\UCHEBNIE\isomatov_h\testing\prakt4\CI\CI\obj\Debug\net8.0\CI.pdb
+D:\UCHEBNIE\isomatov_h\testing\prakt4\CI\CI\obj\Debug\net8.0\ref\CI.dll

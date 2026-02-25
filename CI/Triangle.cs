@@ -15,9 +15,9 @@ namespace CI
             SideC = sideC;
         }
 
-        public double SideA {  get; set; }
-        public double SideB { get; set; }
-        public double SideC { get; set; }
+        private double SideA;
+        private double SideB;
+        private double SideC;
 
         public override double Area()
         {

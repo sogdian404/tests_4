@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\UCHEBNIE\\isomatov_h\\testing\\prakt4\\CI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A49E0B1A-FAEE-42E6-A711-F443ACDC2EEA}|ShapesTests\\ShapesTests.csproj|d:\\uchebnie\\isomatov_h\\testing\\prakt4\\ci\\shapestests\\rectangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49E0B1A-FAEE-42E6-A711-F443ACDC2EEA}|ShapesTests\\ShapesTests.csproj|solutionrelative:shapestests\\rectangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40847B1F-C75C-433D-8CFA-82A268BBDCFE}|CI\\CI.csproj|d:\\uchebnie\\isomatov_h\\testing\\prakt4\\ci\\ci\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40847B1F-C75C-433D-8CFA-82A268BBDCFE}|CI\\CI.csproj|solutionrelative:ci\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,33 +34,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "RectangleTests.cs",
+              "DocumentMoniker": "D:\\UCHEBNIE\\isomatov_h\\testing\\prakt4\\CI\\ShapesTests\\RectangleTests.cs",
+              "RelativeDocumentMoniker": "ShapesTests\\RectangleTests.cs",
+              "ToolTip": "D:\\UCHEBNIE\\isomatov_h\\testing\\prakt4\\CI\\ShapesTests\\RectangleTests.cs",
+              "RelativeToolTip": "ShapesTests\\RectangleTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:39:31.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "D:\\UCHEBNIE\\isomatov_h\\testing\\prakt4\\CI\\CI\\Rectangle.cs",
               "RelativeDocumentMoniker": "CI\\Rectangle.cs",
               "ToolTip": "D:\\UCHEBNIE\\isomatov_h\\testing\\prakt4\\CI\\CI\\Rectangle.cs",
               "RelativeToolTip": "CI\\Rectangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T09:30:21.231Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Triangle.cs",
               "DocumentMoniker": "D:\\UCHEBNIE\\isomatov_h\\testing\\prakt4\\CI\\CI\\Triangle.cs",
               "RelativeDocumentMoniker": "CI\\Triangle.cs",
               "ToolTip": "D:\\UCHEBNIE\\isomatov_h\\testing\\prakt4\\CI\\CI\\Triangle.cs",
               "RelativeToolTip": "CI\\Triangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T09:16:38.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Shape.cs",
               "DocumentMoniker": "D:\\UCHEBNIE\\isomatov_h\\testing\\prakt4\\CI\\CI\\Shape.cs",
               "RelativeDocumentMoniker": "CI\\Shape.cs",

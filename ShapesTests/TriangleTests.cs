@@ -21,7 +21,7 @@ namespace ShapesTests
         public void Area_ValidTriangle_ReturnsCorrectArea()
         {
             var triangle = new Triangle(3, 4, 5);
-            double expected = 7.0; //спец ошибка
+            double expected = 6.0; //спец ошибка
 
             double result = triangle.Area();
 

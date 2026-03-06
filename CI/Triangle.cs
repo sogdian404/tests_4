@@ -10,6 +10,13 @@ namespace CI
     {
         public Triangle(double sideA, double sideB, double sideC)
         {
+            if (sideA < 0 || sideB < 0 || sideC < 0 ||
+        sideA + sideB < sideC ||
+        sideC + sideB < sideA ||
+        sideA + sideC < sideB)
+            {
+                throw new Exception("Такой треугольник не существует");
+            }
             SideA = sideA;
             SideB = sideB;
             SideC = sideC;
@@ -21,19 +28,11 @@ namespace CI
 
         public override double Area()
         {
-            if (SideA < 0 || SideB <0 || SideC<0 || SideA+SideB<SideC || SideC + SideB < SideA || SideA + SideC < SideB)
-            {
-                throw new Exception("Такой треугольник не существует");
-            }
             double p = (SideA + SideB + SideC)/2;
             return Math.Sqrt(p*(p-SideA)*(p-SideB)*(p-SideC));
         }
         public override double Perimeter()
         {
-            if (SideA < 0 || SideB < 0 || SideC < 0)
-            {
-                throw new Exception("Такой треугольник не существует");
-            }
             return SideA+SideB+SideC;
         }
         public override string ToString()

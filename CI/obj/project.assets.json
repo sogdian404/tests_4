@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UCHEBNIE\\isomatov_h\\testing\\prakt4\\CI\\CI\\CI.csproj",
+      "projectUniqueName": "D:\\UCHEBNIE\\testing\\prakt4\\CI\\CI\\CI.csproj",
       "projectName": "CI",
-      "projectPath": "D:\\UCHEBNIE\\isomatov_h\\testing\\prakt4\\CI\\CI\\CI.csproj",
+      "projectPath": "D:\\UCHEBNIE\\testing\\prakt4\\CI\\CI\\CI.csproj",
       "packagesPath": "C:\\Users\\sogdian404\\.nuget\\packages\\",
-      "outputPath": "D:\\UCHEBNIE\\isomatov_h\\testing\\prakt4\\CI\\CI\\obj\\",
+      "outputPath": "D:\\UCHEBNIE\\testing\\prakt4\\CI\\CI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

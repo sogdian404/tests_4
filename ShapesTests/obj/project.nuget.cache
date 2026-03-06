@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vfAaVuuMuco=",
+  "dgSpecHash": "XlEKsfa6aAw=",
   "success": true,
-  "projectFilePath": "D:\\UCHEBNIE\\isomatov_h\\testing\\prakt4\\CI\\ShapesTests\\ShapesTests.csproj",
+  "projectFilePath": "D:\\UCHEBNIE\\testing\\prakt4\\CI\\ShapesTests\\ShapesTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sogdian404\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\sogdian404\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
